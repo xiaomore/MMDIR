@@ -1,4 +1,4 @@
-##MMDIR
+## MMDIR
 
 MMDIR: Multimodal Instruction-Driven Framework for Mixed-Degradation Document Image Restoration, CVPR 2026.
 
@@ -13,3 +13,7 @@ The predict results by our model can be downloaded from [Baidu Cloud](https://pa
 
 #### License
 This work need to be referenced under [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/) for non-commercial research purposes.
+
+#### Acknowledgement
+Thanks to [M6Doc](https://github.com/HCIILAB/M6Doc)
+for their outstanding work in open-sourcing the original document images. 
