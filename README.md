@@ -17,3 +17,15 @@ This work need to be referenced under [CC BY-NC-ND 4.0 License](https://creative
 #### Acknowledgement
 Thanks to [M6Doc](https://github.com/HCIILAB/M6Doc)
 for their outstanding work in open-sourcing the original document images. 
+
+#### Citation
+If our work is helpful to you, please refer to the following BibTeX format for citation:
+```text
+@inproceedings{li2026mmdir,
+  title={MMDIR: Multimodal Instruction-Driven Framework for Mixed-Degradation Document Image Restoration},
+  author={Li, Heng and Wang, Xingyuan and Fan, Yang and Zhang, Yunan and Wu, Xiangping and Chen, Qingcai},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={8387--8396},
+  year={2026}
+}
+```
